@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "951759c37554e2b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "68dd2f81ac8cfd3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "301eec968ea3b0c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1DAY/練習1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "練習1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fe7bc1931c169e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b74de850a79ad169",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a2bff9b5a78faff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "da17619fa53eda4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "99480c21831d842d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc6b1c565c83faea",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b45c8e2f64b6b2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f98563ea969db5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1DAY/練習1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "練習1 的反向連結"
+            }
+          },
+          {
+            "id": "3293b82b720ebfc9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1DAY/練習1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "練習1 的對外連結"
+            }
+          },
+          {
+            "id": "84c201495dcf0a9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "c2ebc7a065125e5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1DAY/練習1.md"
+              },
+              "icon": "lucide-list",
+              "title": "練習1 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "301eec968ea3b0c7",
+  "lastOpenFiles": [
+    "Pasted image 20250103070522.png",
+    "Pasted image 20250103070510.png",
+    "Pasted image 20250103070357.png"
+  ]
+}
